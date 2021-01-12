@@ -14,4 +14,4 @@
 - 😄 Pronouns: ...
 Here are some ideas to get you started:
 -->
-[![FingerLiu's github stats](https://github-readme-stats.vercel.app/api?username=FingerLiu&show_icons=true&theme=radical)](https://github.com/FingerLiu)
+[![FingerLiu's github stats](https://github-readme-stats.vercel.app/api?username=FingerLiu&show_icons=true&theme=merko)](https://github.com/FingerLiu)

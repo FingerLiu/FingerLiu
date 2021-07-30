@@ -15,3 +15,5 @@
 Here are some ideas to get you started:
 -->
 [![FingerLiu's github stats](https://github-readme-stats.vercel.app/api?username=FingerLiu&show_icons=true&theme=merko)](https://github.com/FingerLiu)
+
+<img src="https://komarev.com/ghpvc/?username=FingerLiu&color=blueviolet&style=flat-square">

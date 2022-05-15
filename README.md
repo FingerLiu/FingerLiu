@@ -2,9 +2,10 @@
 
 
 - 🔭 I’m currently working on 4paradigm
-- 🌱 I’m currently learning flink, ceph
-- 💬 Ask me about kubernetes
-- ⚡ Fun fact: CloudNative, data processing, workflow
+- 🌱 I’m currently learning mlflow, spark
+- 💬 Ask me about kubernetes, mlops, cloud platform architecture, system monitoring.
+- 🎃 python/golang/perl/bash/lua/java/cue/rust
+- ⚡ Fun fact: cloud native, machine learning platform, workflow
 <!--
 **FingerLiu/FingerLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
